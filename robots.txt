@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://shiproa.github.io/sitemap.txt
